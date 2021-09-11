@@ -1,0 +1,7 @@
+com\osa\pages\Contact.class
+com\osa\pages\Home.class
+com\osa\pages\About.class
+com\osa\pages\Forum.class
+com\osa\runners\RunQA.class
+com\osa\runners\RunStage.class
+com\osa\steps\Steps.class
