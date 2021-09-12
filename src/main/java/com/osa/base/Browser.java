@@ -15,6 +15,7 @@ public class Browser {
 		String os=System.getProperty("os.name");
 		log.info("The test is running on "+os);
 		//92.0
+		if(os.toLowerCase().contains("window")) {
 		if(browser.equals("chrome")) {
 		log.info("Setting chrome driver path");
 		System.setProperty("webdriver.chrome.driver","src\\main\\resources\\drivers\\windows\\chromedriver.exe");
@@ -22,6 +23,10 @@ public class Browser {
 		dr=new ChromeDriver();
 		}else {
 			System.out.println("Firefox driver is working");
+		}}
+		else {
+			System.setProperty("webdriver.chrome.driver", "src/main/resources/drivers/mac/chromedriver");
+			dr=new ChromeDriver();
 		}
 		log.info("Maximizing the window screen");
 		dr.manage().window().maximize();

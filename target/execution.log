@@ -17,3 +17,35 @@
 2021-09-11 16:36:52 INFO  Forum:28 - Entering the username : xfedfd
 2021-09-11 16:36:53 INFO  Forum:32 - Entering the username : ********
 2021-09-11 16:36:53 INFO  Forum:36 - Clicking on Login Button
+2021-09-12 00:12:22 INFO  Browser:16 - The test is running on Mac OS X
+2021-09-12 00:12:22 INFO  Browser:16 - The test is running on Mac OS X
+2021-09-12 00:14:03 INFO  Browser:16 - The test is running on Mac OS X
+2021-09-12 00:14:07 INFO  Browser:31 - Maximizing the window screen
+2021-09-12 00:14:07 INFO  Browser:33 - Setting implicitlyWait in the browser
+2021-09-12 00:14:18 INFO  Home:27 - Clicking on Forum Button
+2021-09-12 00:14:19 INFO  Forum:28 - Entering the username : fsedfsdfsdf
+2021-09-12 00:14:20 INFO  Steps:46 - We are entering password
+2021-09-12 00:14:20 INFO  Forum:32 - Entering the username : ********
+2021-09-12 00:14:20 INFO  Forum:36 - Clicking on Login Button
+2021-09-12 00:14:20 INFO  Browser:16 - The test is running on Mac OS X
+2021-09-12 00:14:22 INFO  Browser:31 - Maximizing the window screen
+2021-09-12 00:14:22 INFO  Browser:33 - Setting implicitlyWait in the browser
+2021-09-12 00:14:31 INFO  Home:27 - Clicking on Forum Button
+2021-09-12 00:14:32 INFO  Forum:28 - Entering the username : xfedfd
+2021-09-12 00:14:32 INFO  Forum:32 - Entering the username : ********
+2021-09-12 00:14:33 INFO  Forum:36 - Clicking on Login Button
+2021-09-12 00:16:07 INFO  Browser:16 - The test is running on Mac OS X
+2021-09-12 00:16:12 INFO  Browser:31 - Maximizing the window screen
+2021-09-12 00:16:12 INFO  Browser:33 - Setting implicitlyWait in the browser
+2021-09-12 00:16:23 INFO  Home:27 - Clicking on Forum Button
+2021-09-12 00:16:25 INFO  Forum:28 - Entering the username : fsedfsdfsdf
+2021-09-12 00:16:25 INFO  Steps:46 - We are entering password
+2021-09-12 00:16:25 INFO  Forum:32 - Entering the username : ********
+2021-09-12 00:16:25 INFO  Forum:36 - Clicking on Login Button
+2021-09-12 00:16:25 INFO  Browser:16 - The test is running on Mac OS X
+2021-09-12 00:16:27 INFO  Browser:31 - Maximizing the window screen
+2021-09-12 00:16:27 INFO  Browser:33 - Setting implicitlyWait in the browser
+2021-09-12 00:16:40 INFO  Home:27 - Clicking on Forum Button
+2021-09-12 00:16:42 INFO  Forum:28 - Entering the username : xfedfd
+2021-09-12 00:16:42 INFO  Forum:32 - Entering the username : ********
+2021-09-12 00:16:42 INFO  Forum:36 - Clicking on Login Button

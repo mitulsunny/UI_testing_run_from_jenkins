@@ -1,7 +1,7 @@
-C:\Users\Md Obaidulla\Desktop\NewBDD\UI_Testing\src\test\java\com\osa\runners\RunStage.java
-C:\Users\Md Obaidulla\Desktop\NewBDD\UI_Testing\src\test\java\com\osa\pages\Home.java
-C:\Users\Md Obaidulla\Desktop\NewBDD\UI_Testing\src\test\java\com\osa\runners\RunQA.java
-C:\Users\Md Obaidulla\Desktop\NewBDD\UI_Testing\src\test\java\com\osa\pages\Forum.java
-C:\Users\Md Obaidulla\Desktop\NewBDD\UI_Testing\src\test\java\com\osa\pages\Contact.java
-C:\Users\Md Obaidulla\Desktop\NewBDD\UI_Testing\src\test\java\com\osa\steps\Steps.java
-C:\Users\Md Obaidulla\Desktop\NewBDD\UI_Testing\src\test\java\com\osa\pages\About.java
+/Users/mdobaidulla/Desktop/UI/UI_testing_run_from_jenkins/src/test/java/com/osa/pages/About.java
+/Users/mdobaidulla/Desktop/UI/UI_testing_run_from_jenkins/src/test/java/com/osa/pages/Forum.java
+/Users/mdobaidulla/Desktop/UI/UI_testing_run_from_jenkins/src/test/java/com/osa/runners/RunQA.java
+/Users/mdobaidulla/Desktop/UI/UI_testing_run_from_jenkins/src/test/java/com/osa/steps/Steps.java
+/Users/mdobaidulla/Desktop/UI/UI_testing_run_from_jenkins/src/test/java/com/osa/runners/RunStage.java
+/Users/mdobaidulla/Desktop/UI/UI_testing_run_from_jenkins/src/test/java/com/osa/pages/Contact.java
+/Users/mdobaidulla/Desktop/UI/UI_testing_run_from_jenkins/src/test/java/com/osa/pages/Home.java

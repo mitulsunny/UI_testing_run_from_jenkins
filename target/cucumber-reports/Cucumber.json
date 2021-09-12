@@ -3,7 +3,7 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2021-09-11T20:36:39.636Z",
+        "start_timestamp": "2021-09-12T04:16:07.602Z",
         "line": 4,
         "name": "I should be able to login in OSA Forum by using valid username and password",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1955000000,
+              "duration": 4902000000,
               "status": "passed"
             },
             "line": 5,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 4206000000,
+              "duration": 11004000000,
               "status": "passed"
             },
             "line": 6,
@@ -43,7 +43,7 @@
           },
           {
             "result": {
-              "duration": 653000000,
+              "duration": 1707000000,
               "status": "passed"
             },
             "line": 7,
@@ -55,7 +55,7 @@
           },
           {
             "result": {
-              "duration": 206000000,
+              "duration": 276000000,
               "status": "passed"
             },
             "line": 8,
@@ -67,7 +67,7 @@
           },
           {
             "result": {
-              "duration": 73000000,
+              "duration": 164000000,
               "status": "passed"
             },
             "line": 9,
@@ -79,7 +79,7 @@
           },
           {
             "result": {
-              "duration": 99000000,
+              "duration": 104000000,
               "status": "passed"
             },
             "line": 10,
@@ -102,7 +102,7 @@
           },
           {
             "result": {
-              "duration": 66000000,
+              "duration": 122000000,
               "status": "passed"
             },
             "line": 12,
@@ -123,7 +123,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-09-11T20:36:46.906Z",
+        "start_timestamp": "2021-09-12T04:16:25.908Z",
         "line": 14,
         "name": "I should be able to navigate to Inteview question page",
         "description": "",
@@ -133,7 +133,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1209000000,
+              "duration": 1926000000,
               "status": "passed"
             },
             "line": 15,
@@ -145,7 +145,7 @@
           },
           {
             "result": {
-              "duration": 4210000000,
+              "duration": 13144000000,
               "status": "passed"
             },
             "line": 16,
@@ -163,7 +163,7 @@
           },
           {
             "result": {
-              "duration": 646000000,
+              "duration": 1184000000,
               "status": "passed"
             },
             "line": 17,
@@ -175,7 +175,7 @@
           },
           {
             "result": {
-              "duration": 172000000,
+              "duration": 272000000,
               "status": "passed"
             },
             "line": 18,
@@ -187,7 +187,7 @@
           },
           {
             "result": {
-              "duration": 59000000,
+              "duration": 114000000,
               "status": "passed"
             },
             "line": 19,
@@ -199,7 +199,7 @@
           },
           {
             "result": {
-              "duration": 64000000,
+              "duration": 86000000,
               "status": "passed"
             },
             "line": 20,
@@ -211,6 +211,7 @@
           },
           {
             "result": {
+              "duration": 1000000,
               "status": "passed"
             },
             "line": 21,
@@ -233,7 +234,7 @@
           },
           {
             "result": {
-              "duration": 65000000,
+              "duration": 94000000,
               "status": "passed"
             },
             "line": 23,
